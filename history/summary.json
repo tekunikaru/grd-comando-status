@@ -5,17 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.cloudflarestatus.com.ico",
     "slug": "tunnel",
     "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 437,
-    "timeDay": 437,
-    "timeWeek": 437,
-    "timeMonth": 437,
-    "timeYear": 437,
-    "dailyMinutesDown": {}
+    "uptime": "53.71%",
+    "uptimeDay": "53.71%",
+    "uptimeWeek": "53.71%",
+    "uptimeMonth": "53.71%",
+    "uptimeYear": "53.71%",
+    "time": 385,
+    "timeDay": 385,
+    "timeWeek": 385,
+    "timeMonth": 385,
+    "timeYear": 385,
+    "dailyMinutesDown": {
+      "2023-10-25": 138
+    }
   },
   {
     "name": "HEXANE API",
@@ -28,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 394,
-    "timeDay": 354,
-    "timeWeek": 394,
-    "timeMonth": 394,
-    "timeYear": 394,
+    "time": 425,
+    "timeDay": 399,
+    "timeWeek": 425,
+    "timeMonth": 425,
+    "timeYear": 425,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1325,
-    "timeDay": 422,
-    "timeWeek": 1325,
-    "timeMonth": 1325,
-    "timeYear": 1325,
+    "time": 1510,
+    "timeDay": 1448,
+    "timeWeek": 1510,
+    "timeMonth": 1510,
+    "timeYear": 1510,
     "dailyMinutesDown": {}
   }
 ]
