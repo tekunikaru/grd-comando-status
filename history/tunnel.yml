@@ -1,7 +1,7 @@
 url: https://www.cloudflarestatus.com/api/v2/components.json
-status: up
-code: 200
-responseTime: 212
-lastUpdated: 2023-10-27T23:02:43.649Z
+status: degraded
+code: 503
+responseTime: 370
+lastUpdated: 2023-10-28T06:48:32.786Z
 startTime: 2023-10-25T19:15:07.394Z
 generator: Upptime <https://github.com/upptime/upptime>
