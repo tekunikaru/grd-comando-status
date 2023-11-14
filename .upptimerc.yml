@@ -10,8 +10,6 @@ sites:
     icon: https://icons.duckduckgo.com/ip3/www.cloudflarestatus.com.ico
   - name: HEXANE API
     url: https://uvr.gaino.group
-  - name: Heber Animes
-    url: https://animes.heber.moe
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
